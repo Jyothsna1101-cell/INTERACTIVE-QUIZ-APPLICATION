@@ -13,4 +13,7 @@ Once all questions have been attempted, the UI hides the quiz section and displa
 Stylistically, your CSS is clean and purposeful: consistent paddings, rounded corners, responsive width limiting to 600px, shadow effects for depth, and hover states that subtly darken options, signaling interactivity. Buttons share a unified style—teal backgrounds, white text, rounded shapes—that stand out clearly against the darker base palette.
 In sum, this “Advanced Quiz App” is a thoughtfully architected, single-page quiz experience that balances visual appeal with functional robustness. It modularizes data, dynamically drives DOM output, manages state cleanly, and incorporates timed interactions with instant feedback—all contributing to a smooth, engaging user experience of well over 500 words worth of design and planning behind the scenes.
 
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/06de0632-8515-4e6e-9038-175b57a61fe9)
+
 
